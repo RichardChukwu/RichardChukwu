@@ -1,4 +1,20 @@
-<h1>Hi, I'm Richard! <br/><a href="https://github.com/RichardChukwu">Junior Cloud Engineer</a>, <a href="https://www.linkedin.com/in/richardchukwu1/">Azure Administrator</a>
+<h1>Hi, I'm Richard! <br/><a href="https://github.com/RichardChukwu">Junior Cloud Engineer</a>, <a href="https://www.linkedin.com/in/richardchukwu1/">Building and deploying solutions on Microsoft Azure</a>
+
+
+<h2>This GitHub profile showcases my journey as a Cloud Engineer, focusing on building and deploying solutions on Microsoft Azure. Here, you'll find:</h2>
+
+<h2>Personal Projects:</h2> Explore my personal projects demonstrating various Azure functionalities like serverless functions, virtual machines, data storage, Virtualization and Security.
+<h2>Linkedin Articles:</h2> Discover articles I've written on LinkedIn related to Cloud Engineering and Azure.
+<h2>Always Learning:</h2> Stay tuned as I continuously add new projects and resources to this profile.
+
+
+<h2>What I'm passionate about:</h2>
+
+<h2>Automation:</h2> Streamlining processes and infrastructure management using Infrastructure as Code (IaC) with tools like Azure Resource Manager (ARM) templates.
+<h2>Scalability:</h2> Building solutions that can adapt and grow seamlessly as demands change.
+<h2>Cost Optimization:</h2> Designing cost-efficient solutions that leverage Azure's pricing models.
+
+
 <h2>👨‍💻Azure Projects:</h2>
 
 - <b>Project 1</b>
