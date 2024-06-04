@@ -17,20 +17,9 @@
 
 <h2>👨‍💻Azure Projects:</h2>
 
-- <b>Project 1</b>
-  - [working........](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Project 2</b>
-  - [working..........](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>Project 3</b>
-  - [working.................](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [working...............](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [working...............](https://github.com/joshmadakor1/AD_PS)
-  - [working.................](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>Project 4</b>
-  - [working...............](https://github.com/joshmadakor1/EncrypterPOC)
-  - [working...........](https://github.com/joshmadakor1/DecrypterPOC)
-  - [working................](https://github.com/joshmadakor1/Key-Logger-With-Email)
-
+- <b>on Premises to Azure Cloud Cost Estimation</b>
+  - [Estimate of TCO for Nigeria's Federal Scholarship Board Website Migration Over 3 years](https://github.com/RichardChukwu/FSBWebMigration.git)
+  - 
 
 <h2>📺 Popular Linkedin Articles</h2>
 
