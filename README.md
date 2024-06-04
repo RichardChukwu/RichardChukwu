@@ -17,7 +17,7 @@
 
 <h2>👨‍💻Azure Projects:</h2>
 
-- <b>on Premises to Azure Cloud Cost Estimation</b>
+- <b>On Premises to Azure Cloud Cost Estimation</b>
   - [Estimate of TCO for Nigeria's Federal Scholarship Board Website Migration Over 3 years](https://github.com/RichardChukwu/FSBWebMigration.git)
   - 
 
