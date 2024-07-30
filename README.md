@@ -19,7 +19,10 @@
 
 - <b>On Premises to Azure Cloud Cost Estimation</b>
   - [Estimate of TCO for Nigeria's Federal Scholarship Board Website Migration Over 3 years](https://github.com/RichardChukwu/FSBWebMigration.git)
-  - 
+  
+- <b>OnBoardAutomator</b>
+  - [Automate the process of onboarding a new employee into Azure AD and assigning necessary Azure resources.](https://github.com/RichardChukwu/OnboardAutomator)
+
 
 <h2>📺 Popular Linkedin Articles</h2>
 
