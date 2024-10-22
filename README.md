@@ -1,45 +1,41 @@
-<h1>Hi, I'm Richard! <br/><a href="https://github.com/RichardChukwu">Junior Cloud Engineer</a>, <a href="https://www.linkedin.com/in/richardchukwu1/">Building and deploying solutions on Microsoft Azure</a>
+<h1 align="center">Hi 👋, I'm Richard Chukwu</h1>
+<h3 align="center">Junior Cloud Engineer, Building and deploying solutions on Microsoft Azure</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=richardchukwu&label=Profile%20views&color=0e75b6&style=flat" alt="richardchukwu" /> </p>
 
-<h2>This GitHub profile showcases my journey as a Cloud Engineer, focusing on building and deploying solutions on Microsoft Azure. Here, you'll find:</h2>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=richardchukwu" alt="richardchukwu" /></a> </p>
 
-<h2>Personal Projects:</h2> Explore my personal projects demonstrating various Azure functionalities like serverless functions, virtual machines, data storage, Virtualization and Security.
-<h2>Linkedin Articles:</h2> Discover articles I've written on LinkedIn related to Cloud Engineering and Azure.
-<h2>Always Learning:</h2> Stay tuned as I continuously add new projects and resources to this profile.
+<p align="left"> <a href="https://twitter.com/https://x.com/richardchukwu_" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/richardchukwu_?logo=twitter&style=for-the-badge" alt="https://x.com/richardchukwu_" /></a> </p>
 
+- 🔭 I’m currently working on **AZ-104 Projects**
 
-<h2>What I'm passionate about:</h2>
+- 🌱 I’m currently learning **AZ-104**
 
-<h2>Automation:</h2> Streamlining processes and infrastructure management using Infrastructure as Code (IaC) with tools like Azure Resource Manager (ARM) templates.
-<h2>Scalability:</h2> Building solutions that can adapt and grow seamlessly as demands change.
-<h2>Cost Optimization:</h2> Designing cost-efficient solutions that leverage Azure's pricing models.
+- 👯 I’m looking to collaborate on **Cloud Projects with Azure**
 
+- 👨‍💻 All of my projects are available at [https://github.com/RichardChukwu](https://github.com/RichardChukwu)
 
-<h2>👨‍💻Azure Projects:</h2>
+- 📝 I regularly write articles on [https://www.linkedin.com/in/richardchukwu1/](https://www.linkedin.com/in/richardchukwu1/)
 
-- <b>On Premises to Azure Cloud Cost Estimation</b>
-  - [Estimate of TCO for Nigeria's Federal Scholarship Board Website Migration Over 3 years](https://github.com/RichardChukwu/FSBWebMigration.git)
-  
-- <b>OnBoardAutomator</b>
-  - [Automate the process of onboarding a new employee into Azure AD and assigning necessary Azure resources.](https://github.com/RichardChukwu/OnboardAutomator)
+- 💬 Ask me about **Cloud, Azure, Infrastructure**
 
+- 📫 How to reach me **richardchukwu@gmail.com**
 
-<h2>📺 Popular Linkedin Articles</h2>
+- ⚡ Fun fact **I love singing**
 
-- [How Netflix Cloud architecture Works](https://www.linkedin.com/posts/richardchukwu1_cloudcomputing-activity-7193158960479137793-JsAN?utm_source=share&utm_medium=member_desktop)
-- [How Google Search Engine Utilizes Cloud Computing](https://www.linkedin.com/posts/richardchukwu1_cloudcomputing-tech-digital-activity-7179046014815768576-vDNp?utm_source=share&utm_medium=member_desktop)
-- [How I Built a Solid Personal Brand While in College](https://www.linkedin.com/posts/richardchukwu1_linkedin-college-student-activity-7180468573474045952-PJY9?utm_source=share&utm_medium=member_desktop)
-- [My Incredible Achievements as a College Tech Student](https://www.linkedin.com/posts/richardchukwu1_graduate-college-gradschool-activity-7182988127580340224-Gn6S?utm_source=share&utm_medium=member_desktop)
-- [My Experience to Winning Huawe's UGC Contest to Attend MWC 24](https://www.linkedin.com/posts/richardchukwu1_i-won-a-free-trip-to-attend-the-mobile-world-activity-7161605876556939264-sMq6?utm_source=share&utm_medium=member_desktop)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/https://x.com/richardchukwu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/richardchukwu_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/richardchukwu1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/richardchukwu1/" height="30" width="40" /></a>
+<a href="https://instagram.com/richardchukwu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="richardchukwu_" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/richard chukwu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="richard chukwu" height="30" width="40" /></a>
+</p>
 
-<h2> 🤳 Connect with me:</h2>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=richardchukwu&show_icons=true&locale=en&layout=compact" alt="richardchukwu" /></p>
 
-[twitter]: https://x.com/RichardChukwu_
-[linkedin]: https://www.linkedin.com/in/richardchukwu1/
-[instagram]: https://www.instagram.com/richardchukwu_?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=richardchukwu&show_icons=true&locale=en" alt="richardchukwu" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=richardchukwu&" alt="richardchukwu" /></p>
