@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Cloud, Azure, Infrastructure**
 
-- 📫 How to reach me **richardchukwu@gmail.com**
+- 📫 How to reach me **richardchukwu99@gmail.com**
 
 - ⚡ Fun fact **I love singing**
 
