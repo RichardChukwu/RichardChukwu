@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richard Chukwu</h1>
-<h3 align="center">Junior Cloud Engineer, Building and deploying solutions on Microsoft Azure</h3>
+<h3 align="center">Cloud Engineer, Building and deploying solutions on Microsoft Azure</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richardchukwu&label=Profile%20views&color=0e75b6&style=flat" alt="richardchukwu" /> </p>
 
