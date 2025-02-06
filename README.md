@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/richardchukwu_" target="blank"><img src="https://img.shields.io/twitter/follow/richardchukwu_?logo=twitter&style=for-the-badge" alt="richardchukwu_" /></a> </p>
 
-- 🔭 I’m currently working on **AZ-104 Projects**
+- 🔭 I’m currently working on **Observability tools in Open Source like [OpenTelemetry](https://github.com/open-telemetry)**
 
-- 🌱 I’m currently learning **AZ-104**
+- 🌱 I’m currently learning **[Kubernetes](https://github.com/kubernetes)**
 
-- 👯 I’m looking to collaborate on **Cloud Projects with Azure**
+- 👯 I’m looking to collaborate on **Cloud Native Open Source Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RichardChukwu](https://github.com/RichardChukwu)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/richardchukwu1/](https://www.linkedin.com/in/richardchukwu1/)
 
-- 💬 Ask me about **Cloud, Azure, Infrastructure**
+- 💬 Ask me about **Cloud-Native, Open Source, Observability and Infrastructure**
 
 - 📫 How to reach me **richardchukwu99@gmail.com**
 
